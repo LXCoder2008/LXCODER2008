@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=25&pause=1000&color=F72585&width=710&height=65&lines=%E6%AC%A2%E8%BF%8E%E6%82%A8%EF%BC%8C%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5%EF%BC%81)](https://github.com/LXCODER2008)
 
 <div align="center">
-  <img src="./IMAGE/LXCODER2008/logo.svg" alt="LXCODER2008 Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/LXCoder2008/LXCODER2008/refs/heads/main/IMAGE/LXCODER2008/LOGO.svg" alt="LXCODER2008 Logo" width="150"/>
 </div>
 
 ## 关于我
