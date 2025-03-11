@@ -1,6 +1,7 @@
 # 👋 Hi! I'm @LXCODER2008
 
 I'm passionate about table tennis and love exploring new things. As a developer, I'm committed to contributing to the open-source community.
+<img src="/IMAGE/LXCODER2008/logo.svg"/>
 
 ## About Me
 - **LXC**: My name's initials
